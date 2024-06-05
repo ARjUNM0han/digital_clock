@@ -15,3 +15,8 @@ body {
 .ampm-part {
   color: #ff5722;
 }
+
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
